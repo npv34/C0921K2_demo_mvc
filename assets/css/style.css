@@ -1,0 +1,10 @@
+.user-list {
+    width: 500px;
+    border-collapse: collapse;
+    background-color: antiquewhite;
+}
+
+.header-user-list {
+    background-color: blue;
+    color: white;
+}
